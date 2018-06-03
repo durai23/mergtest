@@ -1,1 +1,1 @@
-test=lol2
+test=lol
